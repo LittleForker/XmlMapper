@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This document contains the list of file that will be merged -->
+<Files>
+  <File>files_to_merge\dbinfo.xml</File>
+  <File>files_to_merge\webdata.xml</File>
+  <File>files_to_merge\xmldata.xml</File>
+ </Files>

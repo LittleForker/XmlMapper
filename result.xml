@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DocumentElement>
+  <ListingDBInfo>
+    <BackEndQuery>
+      <BackEndQuery_item>
+        <ListingId>17561823</ListingId>
+        <AgencyId>33420</AgencyId>
+        <ListingInsertionDate>2010-11-02T15:37:52.943</ListingInsertionDate>
+        <ListingModified>2010-11-02T15:40:46.113</ListingModified>
+        <ListingExipryDate>2011-05-02T15:41:00</ListingExipryDate>
+        <ListingEnabled>True</ListingEnabled>
+        <ListingDeleted>False</ListingDeleted>
+        <UploadedFromWs>False</UploadedFromWs>
+        <LockedForWs>False</LockedForWs>
+        <LastImageDate>2010-11-02T15:41:00</LastImageDate>
+        <LastPointsUpdateDate>2010-11-02T15:41:00</LastPointsUpdateDate>
+      </BackEndQuery_item>
+    </BackEndQuery>
+    <JetWireViewsQuery>
+      <JetWireViewsQuery_item>
+        <ListingId>17561823</ListingId>
+        <AgencyId>33420</AgencyId>
+        <entryTimestamp>2010-11-02T15:37:52</entryTimestamp>
+        <modifiedTimestamp>2010-11-02T15:40:46</modifiedTimestamp>
+        <expiryDate>2011-05-02T15:41:00</expiryDate>
+        <listingStatus>Active</listingStatus>
+        <expired>false</expired>
+        <subscriptions>REA-Platinum2</subscriptions>
+      </JetWireViewsQuery_item>
+    </JetWireViewsQuery>
+    <MessagesTempQueueQuery />
+    <MessagesQueueQuery />
+    <MessagesProcessedQuery>
+      <MessagesProcessedQuery_item>
+        <ListingId>17561823</ListingId>
+        <InsertionDate>2010-11-02T15:42:30.173</InsertionDate>
+        <ProcessedDate>2010-11-02T15:42:31.850</ProcessedDate>
+      </MessagesProcessedQuery_item>
+    </MessagesProcessedQuery>
+  </ListingDBInfo>
+  <ListingWebData>
+    <documentid>17561823</documentid>
+    <internalid>92c37ebcae52b4878c4ee4850ca96969_properties</internalid>
+    <cityid>IT-LOM-015146</cityid>
+    <listdate>2010-11-02T14:37:52Z</listdate>
+    <listmoddate>2010-11-02T14:40:46Z</listmoddate>
+    <processingtime>2010-11-02T15:45:45</processingtime>
+    <state>LOMBARDIA</state>
+  </ListingWebData>
+  <ListingXMLInfo>
+    <ListingId>17561823</ListingId>
+    <AgencyId>33420</AgencyId>
+    <EntryTimestamp>2010-11-02T14:37:52Z</EntryTimestamp>
+    <ModifiedTimestamp>2010-11-02T14:40:46Z</ModifiedTimestamp>
+    <ListingStatus>On Market</ListingStatus>
+    <LastFileModification>2010-11-02T15:42:20.683828Z</LastFileModification>
+  </ListingXMLInfo>
+</DocumentElement>

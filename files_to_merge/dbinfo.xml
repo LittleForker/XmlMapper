@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListingDBInfo>
+<BackEndQuery>
+  <BackEndQuery_item>
+	<ListingId>17561823</ListingId>
+	<AgencyId>33420</AgencyId>
+	<ListingInsertionDate>2010-11-02T15:37:52.943</ListingInsertionDate>
+	<ListingModified>2010-11-02T15:40:46.113</ListingModified>
+	<ListingExipryDate>2011-05-02T15:41:00</ListingExipryDate>
+	<ListingEnabled>True</ListingEnabled>
+	<ListingDeleted>False</ListingDeleted>
+	<UploadedFromWs>False</UploadedFromWs>
+	<LockedForWs>False</LockedForWs>
+	<LastImageDate>2010-11-02T15:41:00</LastImageDate>
+	<LastPointsUpdateDate>2010-11-02T15:41:00</LastPointsUpdateDate>
+  </BackEndQuery_item>
+</BackEndQuery>
+<JetWireViewsQuery>
+  <JetWireViewsQuery_item>
+	<ListingId>17561823</ListingId>
+	<AgencyId>33420</AgencyId>
+	<entryTimestamp>2010-11-02T15:37:52</entryTimestamp>
+	<modifiedTimestamp>2010-11-02T15:40:46</modifiedTimestamp>
+	<expiryDate>2011-05-02T15:41:00</expiryDate>
+	<listingStatus>Active</listingStatus>
+	<expired>false</expired>
+	<subscriptions>REA-Platinum2</subscriptions>
+  </JetWireViewsQuery_item>
+</JetWireViewsQuery>
+<MessagesTempQueueQuery />
+<MessagesQueueQuery />
+<MessagesProcessedQuery>
+  <MessagesProcessedQuery_item>
+	<ListingId>17561823</ListingId>
+	<InsertionDate>2010-11-02T15:42:30.173</InsertionDate>
+	<ProcessedDate>2010-11-02T15:42:31.850</ProcessedDate>
+  </MessagesProcessedQuery_item>
+</MessagesProcessedQuery>
+</ListingDBInfo>
